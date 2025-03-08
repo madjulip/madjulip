@@ -1,7 +1,7 @@
 👋 Hi, I’m @madjulip
-- 👀 I’m interested in writing, reading, gaming, and coding.
+- 👀 I’m interested in writing, reading, gaming and coding (for work).
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am writing a book.
+- ⚡ Fun fact: I am fantasy writing a book.
 
 <!---
 madjulip/madjulip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
